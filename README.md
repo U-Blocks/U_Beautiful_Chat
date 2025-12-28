@@ -39,7 +39,7 @@
 * **Localized languages support**
 
 <div style="width: 100%; text-align: left;">
-  <img src="./logo/ubc1.jpg" style="max-width: 100%; height: 500px;">
+  <img src="./logo/ubc1.jpg" style="max-width: 100%;;">
 </div>
 
 ### 🔨Installation
