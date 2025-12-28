@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "endstone-u-beautiful-chat"
-version = "250112"
+version = "2501220"
 description = "Null"
 
 [project.entry-points."endstone"]
