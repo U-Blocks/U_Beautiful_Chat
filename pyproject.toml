@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-u-beautiful-chat"
+version = "250112"
+description = "Null"
+
+[project.entry-points."endstone"]
+u_beautiful_chat = "endstone_u_beautiful_chat:u_beautiful_chat"
