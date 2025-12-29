@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/language-python-blue.svg) 
 [![GitHub License](https://img.shields.io/github/license/umarurize/UTP)](LICENSE)
 
-## Introductions
+### ✨Introductions
 <details>
 <summary>17 types of variables</summary>
 
@@ -43,7 +43,7 @@
   <img src="./logo/ubc1.jpg" style="max-width: 100%;;">
 </div>
 
-## Installation
+### 📦Installation
 <details>
 <summary>Check your Endstone's version</summary>
 
@@ -68,7 +68,7 @@
 3. Restart your server
 4. Enter the command `/ubc` to call out the main form of U-Beautiful-Chat
 
-## File structure
+### 📄File structure
 ```
 plugins/
 ├─ u-beautiful-chat/
@@ -79,7 +79,7 @@ plugins/
 │  │  ├─ en_US.json
 ```
 
-## ⚙Configuration
+### ⚙️Configuration
 `config.json`
 ```json5
 {
@@ -116,7 +116,7 @@ plugins/
 }
 ```
 
-## Localized multi-language
+### 🌎Localized multi-language
 * Currently supported localized languages for U-Beautiful-Chat:
 - [x] `zh_CN`
 - [x] `en_US`
@@ -127,7 +127,7 @@ plugins/
   * Restart your server, and you're all done!
 * If you'd like your translated language to be included as one of the official languages of this plugin, feel free to shoot over a PR.
 
-## API
+### 💪API
 ```python
 # Read only
 # Get the specified players' nickname
@@ -137,5 +137,5 @@ self.server.plugin_manager.get_plugin("u_beautiful_chat").api_get_player_nicknam
 self.server.plugin_manager.get_plugin("u_beautiful_chat").api_get_player_unique_nickname(player_name: str) -> str
 ```
 
-## Screenshots
+### 🎨Screenshots
 You can view related screenshots of U-Beautiful-Chat from images folder of this repo.
